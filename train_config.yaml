@@ -6,4 +6,5 @@ test: ./test # test images (optional)
 
 
 names:
-  0: pomelo
+  0: human
+  1: bus

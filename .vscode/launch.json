@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: demo.py with Arguments",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:/Users/P1900/OneDrive/myTools/anylabeling-seg2yolo/demo.py",
+            "console": "integratedTerminal",
+            "args": ["--config_path","C:/Users/P1900/OneDrive/桌面/三维重建实验/目标检测代码/yolo_mine/train_config.yaml","--json_dir","C:/Users/P1900/OneDrive/桌面/三维重建实验/目标检测代码/yolo_mine/dataset/pomelo_handcraft/annotation"]
+        }
+    ]
+}

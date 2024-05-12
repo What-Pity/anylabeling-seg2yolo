@@ -4,6 +4,8 @@ This is a tool for converting segmentation masks to YOLO format.
 
 I found it quite convenient to use [X-Anylabeling](https://github.com/CVHub520/X-AnyLabeling) for labeling my segmentation masks, but I needed to convert the labels in json format to Ultralytics-YOLO format for training a YOLOv8 model. So I wrote this tool to automate the process.
 
+![labeling using X-Anylabeling](./picture/anylabeling.gif)
+
 ## Requirements
 
 - `pathlib` supported by `python 3.6+` 

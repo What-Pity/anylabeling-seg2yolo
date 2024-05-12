@@ -1,5 +1,7 @@
 # anylabeling-seg2yolo
 
+Deprecation Notice: This tool is no longer maintained. Please use [the `python` version](https://github.com/What-Pity/anylabeling-seg2yolo/tree/main) instead.
+
 This is a tool for converting segmentation masks to YOLO format.
 
 I found it quite convenient to use [X-Anylabeling](https://github.com/CVHub520/X-AnyLabeling) for labeling my segmentation masks, but I needed to convert the labels in json format to Ultralytics-YOLO format for training a YOLOv8 model. So I wrote this tool to automate the process.
